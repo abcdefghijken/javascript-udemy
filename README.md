@@ -1,1 +1,2 @@
-# javascript
+# The Complete JavaScript Course 2024: From Zero to Expert!
+- JavaScript Fundamentals - Part 1
